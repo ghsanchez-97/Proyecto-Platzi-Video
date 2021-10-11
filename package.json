@@ -1,0 +1,19 @@
+{
+  "name": "platzi-video",
+  "version": "1.0.0",
+  "description": "Proyecto de platzi sobre los conocimiento de frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghsanchez-97/Proyecto-Platzi-Video.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghsanchez-97/Proyecto-Platzi-Video/issues"
+  },
+  "homepage": "https://github.com/ghsanchez-97/Proyecto-Platzi-Video#readme"
+}
